@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio Boletos</string>
+    <string name="tvPregunta">¿Cuantos boletos desea adquirir?</string>
+    <string name="rbVIP">Zona VIP</string>
+    <string name="rbLuneta">Zona de luneta</string>
+    <string name="rbPrefe">Zona preferente</string>
+    <string name="rbGeneral">Zona general</string>
+    <string name="btnCalcular">Calcular precio</string>
+</resources>
